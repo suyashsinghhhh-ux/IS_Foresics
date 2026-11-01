@@ -1,4 +1,3 @@
-# modules/pcap_parser.py
 import pyshark
 import sqlite3
 import pandas as pd
@@ -9,7 +8,7 @@ def parse_pcap_to_db(pcap_path, original_hash=None, db_path="database/forensic_t
     if original_hash:
         current_hash = calculate_sha256(pcap_path)
         if current_hash != original_hash:
-            raise ValueError(f"CRITICAL: Integrity Check Failed for {pcap_path}! File altered.")
+            raise ValueError(f"CRITICAL: Integrity Check Failed for {pcap_path}! Evidence has been tampered with.")
 
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()

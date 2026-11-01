@@ -1,0 +1,286 @@
+"Name","Id","PPID","WorkingSet64","Path"
+"AdobeIPCBroker","4060",,"10584064","C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\IPCBox\AdobeIPCBroker.exe"
+"AggregatorHost","7192",,"11018240",
+"AlienFXSubAgent","46000",,"225017856","C:\Program Files\Alienware\Alienware Command Center\Subsystems\FX\SubAgent\AlienFXSubAgent.exe"
+"amdfendrsr","3780",,"2248704",
+"AmdPpkgSvc","5112",,"1077248",
+"AppActions","37776",,"42381312","C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AppActions.exe"
+"ApplicationFrameHost","31604",,"45060096","C:\WINDOWS\system32\ApplicationFrameHost.exe"
+"atieclxx","30912",,"21188608",
+"atiesrxx","3788",,"11014144",
+"AWCC.SCSubAgent","5372",,"93257728",
+"AWCC.UCSubAgent","32308",,"159813632","C:\Program Files\Alienware\Alienware Command Center\AWCC.UCSubAgent\AWCC.UCSubAgent.exe"
+"AWPerformance.SCSubAgent","12096",,"100179968",
+"AWPerformance.UCSubAgent","41556",,"138133504","C:\Program Files\Alienware\Alienware Command Center\Subsystems\Performance\SubAgent\UCSubAgent\AWPerformance.UCSubAgent.exe"
+"backgroundTaskHost","26188",,"60063744","C:\WINDOWS\system32\backgroundTaskHost.exe"
+"CCXProcess","49784",,"3760128","C:\Program Files\Adobe\Adobe Creative Cloud Experience\CCXProcess.exe"
+"chrome","4348",,"20951040","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","23012",,"608960512","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","24848",,"42254336","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","25268",,"40087552","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","25472",,"9924608","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","29460",,"130949120","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","31484",,"32178176","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","32408",,"82931712","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","33228",,"234078208","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","38864",,"176566272","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","39696",,"339046400","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","39884",,"23789568","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","39972",,"69304320","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","40088",,"43569152","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","48656",,"101486592","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","49328",,"348995584","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","49436",,"77656064","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"cmd","26016",,"8142848","C:\WINDOWS\system32\cmd.exe"
+"Code","8648",,"136855552","C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","11620",,"368332800","C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","14392",,"673390592","C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","24504",,"55836672","C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","25700",,"193822720","C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","31212",,"278609920","C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","37088",,"172392448","C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","38568",,"35491840","C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","39272",,"116813824","C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","43280",,"144027648","C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","43708",,"379346944","C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf","14168",,"14032896","C:\Users\Dell\AppData\Local\Temp\vscode-stable-user-x64\CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf.exe"
+"CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf.tmp","6724",,"49451008","C:\Users\Dell\AppData\Local\Temp\is-MDC3V.tmp\CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf.tmp"
+"conhost","3372",,"7196672","C:\WINDOWS\system32\conhost.exe"
+"conhost","12976",,"11014144",
+"conhost","14492",,"2605056",
+"conhost","28796",,"8056832","C:\WINDOWS\system32\conhost.exe"
+"conhost","30540",,"10989568",
+"conhost","30956",,"7892992","C:\WINDOWS\system32\conhost.exe"
+"conhost","33304",,"11042816",
+"conhost","48424",,"11046912",
+"conhost","50116",,"11010048",
+"copilot-runtime","24912",,"82919424","c:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\e646868227\resources\app\node_modules.asar.unpacked\@github\copilot-sdk-win32-x64\prebuilds\win32-x64\copilot-runtime.exe"
+"CrossDeviceResume","37892",,"48164864","C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe"
+"CrossDeviceService","10044",,"96235520","C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.26082.74.0_x64__cw5n1h2txyewy\CrossDeviceService.exe"
+"csrss","1344",,"3985408",
+"csrss","2240",,"8916992",
+"ctfmon","21732",,"33927168",
+"DAX3API","2504",,"15204352",
+"DAX3API","4288",,"12763136",
+"DefenderAiPlatformHost","37376",,"6332416",
+"DefenderSessionHelper","45516",,"6008832",
+"Dell.CoreServices.Client","19540",,"92930048",
+"Dell.D3.WinSvc","24272",,"46751744",
+"Dell.TechHub","16480",,"48701440",
+"Dell.TechHub.Analytics.SubAgent","28320",,"75005952",
+"Dell.TechHub.DataManager.SubAgent","27976",,"88227840",
+"Dell.TechHub.Diagnostics.SubAgent","26972",,"30302208",
+"Dell.TechHub.Instrumentation.SubAgent","15328",,"180404224",
+"Dell.TechHub.Instrumentation.UserProcess","27748",,"152948736",
+"Dell.UCA.Manager","23900",,"38133760",
+"Dell.Update.SubAgent","37860",,"23552000",
+"DellSupportAssistRemedationService","23740",,"35610624",
+"dllhost","40188",,"14065664","C:\WINDOWS\system32\DllHost.exe"
+"dwm","11128",,"119296000",
+"explorer","536",,"454459392","C:\WINDOWS\Explorer.EXE"
+"fontdrvhost","1948",,"1605632",
+"fontdrvhost","49832",,"9539584",
+"FusionService","21188",,"12763136",
+"FxDisplayService","2572",,"54079488","C:\program files\alienware\awccplugins\fxsubsystem\fxdeviceplugins\dell.gaming.display\FxDisplayService.exe"
+"GameEyeApp","39284",,"64299008","c:\program files\alienware\awccplugins\fxsubsystem\fxdeviceplugins\dell.gaming.display001\AfxAlienLib\GameEyeApp.exe"
+"GameInputRedistService","6876",,"16347136",
+"GameInputSvc","38932",,"22597632",
+"GameInputSvc","49752",,"7372800",
+"gamingservices","13044",,"31371264",
+"gamingservicesnet","33992",,"13312000",
+"Idle","0",,"8192",
+"IgoAudioService_x64","5132",,"3928064",
+"iGoSwServer","8172",,"1085440",
+"iGoSwServer","46468",,"5816320","C:\Windows\System32\DriverStore\FileRepository\igoaudioservice.inf_amd64_c020ee4ab15d7d26\iGoSwServer.exe"
+"logi_lamparray_service.AMD64","5200",,"3641344",
+"LsaIso","1736",,"2101248",
+"lsass","1744",,"31264768",
+"Memory Compression","4068",,"367943680",
+"MicrosoftStartFeedProvider","3428",,"50675712","C:\Program Files\WindowsApps\Microsoft.StartExperiencesApp_1.398.4.0_x64__8wekyb3d8bbwe\MicrosoftStartFeedProvider\MicrosoftStartFeedProvider.exe"
+"MidiSrv","3452",,"18006016",
+"MoNotificationUx","49932",,"14422016","C:\WINDOWS\uus\AMD64\MoNotificationUx.exe"
+"MpDefenderCoreService","3424",,"25907200",
+"msedge","25376",,"185311232","C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+"msedge","28016",,"72843264","C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+"msedge","29492",,"152825856","C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+"msedge","30640",,"13783040","C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+"msedge","33988",,"36589568","C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+"msedge","35352",,"23355392","C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+"msedge","44240",,"46370816","C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+"msedgewebview2","2928",,"192512","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.58\msedgewebview2.exe"
+"msedgewebview2","8848",,"59277312","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.58\msedgewebview2.exe"
+"msedgewebview2","9476",,"4423680","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.58\msedgewebview2.exe"
+"msedgewebview2","12536",,"123351040","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.58\msedgewebview2.exe"
+"msedgewebview2","15400",,"1798144","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.58\msedgewebview2.exe"
+"msedgewebview2","18392",,"987136","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.58\msedgewebview2.exe"
+"msedgewebview2","24952",,"1101824","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.58\msedgewebview2.exe"
+"msedgewebview2","31332",,"43286528","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.58\msedgewebview2.exe"
+"msedgewebview2","37236",,"13385728","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.58\msedgewebview2.exe"
+"msedgewebview2","37280",,"958464","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.58\msedgewebview2.exe"
+"msedgewebview2","38056",,"20414464","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.58\msedgewebview2.exe"
+"msedgewebview2","41116",,"80371712","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.58\msedgewebview2.exe"
+"msedgewebview2","45320",,"20480","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.58\msedgewebview2.exe"
+"msedgewebview2","45776",,"12783616","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.58\msedgewebview2.exe"
+"msedgewebview2","47308",,"9928704","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.58\msedgewebview2.exe"
+"MsMpEng","39708",,"309379072",
+"NisSrv","38088",,"14565376",
+"node","13456",,"60063744","C:\Program Files\Adobe\Adobe Creative Cloud Experience\libs\node.exe"
+"nvcontainer","5236",,"27594752",
+"nvcontainer","28152",,"32993280","C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe"
+"nvcontainer","37056",,"75255808","C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe"
+"nvcontainer","47540",,"39202816",
+"NVDisplay.Container","3720",,"26177536",
+"NVDisplay.Container","22480",,"44183552",
+"NVIDIA Overlay","15396",,"23375872","C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA Overlay.exe"
+"NVIDIA Overlay","23408",,"68636672","C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA Overlay.exe"
+"NVIDIA Overlay","31992",,"38518784","C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA Overlay.exe"
+"NVIDIA Overlay","34116",,"144224256","C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA Overlay.exe"
+"NVIDIA Overlay","43024",,"48898048","C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA Overlay.exe"
+"nvsphelper64","4820",,"16670720",
+"OCControl.Service","14316",,"105402368",
+"OfficeClickToRun","11480",,"55590912",
+"OneDrive.Sync.Service","10868",,"101564416","C:\Program Files\Microsoft OneDrive\26.189.0928.0009\OneDrive.Sync.Service.exe"
+"OpenConsole","9920",,"12062720","c:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\e646868227\resources\app\node_modules.asar.unpacked\node-pty\build\Release\conpty\OpenConsole.exe"
+"OpenConsole","19980",,"12152832","c:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\e646868227\resources\app\node_modules.asar.unpacked\node-pty\build\Release\conpty\OpenConsole.exe"
+"OpenConsole","35192",,"12079104","c:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\e646868227\resources\app\node_modules.asar.unpacked\node-pty\build\Release\conpty\OpenConsole.exe"
+"pet","9604",,"10170368","c:\Users\Dell\.vscode\extensions\ms-python.python-2026.10.0-win32-x64\python-env-tools\bin\pet.exe"
+"powershell","11148",,"90472448","C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe"
+"powershell","32628",,"95608832","C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe"
+"powershell","32696",,"90370048","C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe"
+"powershell","36712",,"76075008","C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+"python","17804",,"4280320","C:\Users\Dell\Desktop\New folder\.venv\Scripts\python.exe"
+"python","41964",,"16236544","C:\Users\Dell\AppData\Local\Programs\Python\Python313\python.exe"
+"Registry","232",,"43642880",
+"RtkAudUService64","5244",,"7372800",
+"RtkAudUService64","36524",,"14200832","C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_6bb0dd715907387d\RtkAudUService64.exe"
+"RtkAudUService64","44176",,"19726336",
+"RuntimeBroker","6112",,"30015488","C:\Windows\System32\RuntimeBroker.exe"
+"RuntimeBroker","15956",,"17567744","C:\Windows\System32\RuntimeBroker.exe"
+"RuntimeBroker","31508",,"14602240","C:\Windows\System32\RuntimeBroker.exe"
+"RuntimeBroker","37836",,"15486976","C:\Windows\System32\RuntimeBroker.exe"
+"RuntimeBroker","44820",,"67444736","C:\Windows\System32\RuntimeBroker.exe"
+"SearchHost","9684",,"113721344","C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe"
+"SearchIndexer","16808",,"45961216",
+"Secure System","188",,"69574656",
+"SecurityHealthService","6348",,"20762624",
+"SecurityHealthSystray","49600",,"13717504","C:\Windows\System32\SecurityHealthSystray.exe"
+"services","1716",,"14073856",
+"ServiceShell","43324",,"51716096",
+"ShellHost","41808",,"62488576","C:\Windows\System32\ShellHost.exe"
+"sihost","5708",,"51224576","C:\WINDOWS\system32\sihost.exe"
+"smss","848",,"733184",
+"spoolsv","4752",,"24780800",
+"StartMenuExperienceHost","47408",,"134156288","C:\WINDOWS\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe"
+"SupportAssistAgent","35552",,"334503936",
+"svchost","8",,"23605248",
+"svchost","832",,"8196096",
+"svchost","1356",,"15556608","C:\WINDOWS\system32\svchost.exe"
+"svchost","1888",,"55050240",
+"svchost","2104",,"1597440",
+"svchost","2112",,"4313088",
+"svchost","2152",,"9809920",
+"svchost","2168",,"7491584",
+"svchost","2176",,"10158080",
+"svchost","2220",,"12419072",
+"svchost","2416",,"5677056",
+"svchost","2496",,"7733248",
+"svchost","2544",,"18763776",
+"svchost","2596",,"6623232",
+"svchost","2604",,"8241152",
+"svchost","2612",,"8351744",
+"svchost","2784",,"11915264",
+"svchost","2856",,"6643712",
+"svchost","2876",,"5570560",
+"svchost","2888",,"19685376",
+"svchost","2908",,"2564096",
+"svchost","3036",,"7626752",
+"svchost","3104",,"9129984",
+"svchost","3236",,"6262784",
+"svchost","3264",,"7417856",
+"svchost","3320",,"2801664",
+"svchost","3624",,"7352320",
+"svchost","3628",,"6479872",
+"svchost","3796",,"23842816",
+"svchost","3924",,"2088960",
+"svchost","3932",,"9969664",
+"svchost","3940",,"6258688",
+"svchost","4032",,"6692864",
+"svchost","4144",,"19673088",
+"svchost","4208",,"10108928",
+"svchost","4236",,"17387520",
+"svchost","4292",,"4890624",
+"svchost","4388",,"42336256",
+"svchost","4568",,"7909376",
+"svchost","4648",,"18591744",
+"svchost","4676",,"10698752",
+"svchost","4812",,"29564928",
+"svchost","4904",,"3563520",
+"svchost","5124",,"5181440",
+"svchost","5140",,"47382528",
+"svchost","5148",,"59559936",
+"svchost","5156",,"8740864",
+"svchost","5300",,"18538496",
+"svchost","5320",,"45223936",
+"svchost","5508",,"2416640",
+"svchost","5980",,"5079040",
+"svchost","6832",,"1777664",
+"svchost","7576",,"30588928",
+"svchost","7736",,"6152192",
+"svchost","8628",,"24489984",
+"svchost","8964",,"2605056",
+"svchost","9876",,"28930048",
+"svchost","9892",,"3014656",
+"svchost","10052",,"9879552",
+"svchost","10136",,"27963392","C:\WINDOWS\system32\svchost.exe"
+"svchost","10496",,"19820544",
+"svchost","10524",,"3645440",
+"svchost","10820",,"25800704",
+"svchost","11176",,"12005376",
+"svchost","11208",,"11456512",
+"svchost","12252",,"41058304","C:\WINDOWS\system32\svchost.exe"
+"svchost","15120",,"18350080",
+"svchost","15820",,"12156928",
+"svchost","16240",,"21708800","C:\WINDOWS\system32\svchost.exe"
+"svchost","16556",,"7507968",
+"svchost","17388",,"4055040",
+"svchost","18476",,"10371072",
+"svchost","18584",,"23613440",
+"svchost","18632",,"4911104",
+"svchost","19504",,"17510400",
+"svchost","19604",,"1855488",
+"svchost","20264",,"3645440",
+"svchost","20372",,"8204288",
+"svchost","20700",,"4333568",
+"svchost","21748",,"10301440",
+"svchost","22064",,"2527232",
+"svchost","22736",,"25124864",
+"svchost","22864",,"22667264",
+"svchost","26860",,"2994176",
+"svchost","28936",,"19337216",
+"svchost","29216",,"11456512","C:\WINDOWS\system32\svchost.exe"
+"svchost","29240",,"9564160",
+"svchost","32700",,"26988544","C:\WINDOWS\system32\svchost.exe"
+"svchost","36348",,"44773376","C:\WINDOWS\system32\svchost.exe"
+"svchost","39912",,"37773312",
+"svchost","41132",,"8065024",
+"svchost","43848",,"63533056",
+"svchost","44212",,"11919360","C:\WINDOWS\system32\svchost.exe"
+"svchost","46184",,"9854976",
+"svchost","46800",,"28729344","C:\WINDOWS\System32\svchost.exe"
+"System","4",,"6164480",
+"SystemSettings","14476",,"3334144","C:\Windows\ImmersiveControlPanel\SystemSettings.exe"
+"taskhostw","37512",,"25944064","C:\WINDOWS\system32\taskhostw.exe"
+"TextInputHost","18272",,"82837504","C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe"
+"unsecapp","8460",,"3821568",
+"unsecapp","38812",,"10256384",
+"UserOOBEBroker","22324",,"11780096","C:\Windows\System32\oobe\UserOOBEBroker.exe"
+"WhatsApp.Root","22768",,"288296960","C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2641.101.0_x64__cv1g1gvanyjgm\WhatsApp.Root.exe"
+"WidgetBoard","36980",,"31109120","C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.21100.40.0_x64__cw5n1h2txyewy\WidgetBoard.exe"
+"WidgetService","45920",,"26157056","C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.19.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe"
+"wininit","1576",,"5455872",
+"winlogon","29896",,"23465984",
+"wlanext","9420",,"1720320",
+"WmiPrvSE","7128",,"52224000",
+"WmiPrvSE","8208",,"25104384",
+"wslservice","5312",,"9465856",
+"WUDFHost","1900",,"2760704",

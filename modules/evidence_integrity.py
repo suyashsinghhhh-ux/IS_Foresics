@@ -1,10 +1,14 @@
-# modules/evidence_integrity.py
 import hashlib
+import hmac
 import sqlite3
 import os
+import json
+from datetime import datetime
+
+SECRET_KEY = b"DFIR_TRIAGE_SECRET_HMAC_KEY_2026"
 
 def calculate_sha256(file_path):
-    """Calculates SHA-256 hash of a file in binary mode."""
+    """Calculates cryptographic SHA-256 hash of a file in binary mode."""
     sha256_hash = hashlib.sha256()
     with open(file_path, "rb") as f:
         for byte_block in iter(lambda: f.read(4096), b""):
@@ -12,7 +16,7 @@ def calculate_sha256(file_path):
     return sha256_hash.hexdigest()
 
 def log_evidence_manifest(file_name, file_type, file_path, db_path="database/forensic_triage.db"):
-    """Stores initial file metadata and SHA-256 hash in SQLite manifest."""
+    """Logs initial file metadata and SHA-256 fingerprint into SQLite manifest."""
     os.makedirs(os.path.dirname(db_path), exist_ok=True)
     file_hash = calculate_sha256(file_path)
     
@@ -38,8 +42,11 @@ def log_evidence_manifest(file_name, file_type, file_path, db_path="database/for
     conn.close()
     return file_hash
 
-def verify_evidence_integrity(file_path, original_hash):
-    """Re-computes hash before analysis to verify file hasn't been altered."""
+def verify_evidence_integrity(file_path, expected_hash):
+    """Re-computes current hash before analysis to verify file authenticity."""
     current_hash = calculate_sha256(file_path)
-    is_valid = (current_hash == original_hash)
-    return is_valid, current_hash
+    return (current_hash == expected_hash), current_hash
+
+def sign_report_hmac(report_content):
+    """Signs final report content using HMAC SHA-256 for integrity verification."""
+    return hmac.new(SECRET_KEY, report_content.encode('utf-8'), hashlib.sha256).hexdigest()
